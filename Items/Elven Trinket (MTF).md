@@ -1,0 +1,21 @@
+# Elven Trinket
+
+## Item Summary
+
+| Attribute            | Value                        |
+|----------------------|------------------------------|
+| Type                 | Gear |
+| Rarity               | None             |
+| Requires Attunement  | No                |
+| Value (gp)           | -    |
+| Source               | MTF |
+
+---
+
+## Description
+
+
+
+## Tags
+
+^Tags: #item #rarity_none #type_gear #source_mtf

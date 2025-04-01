@@ -1,0 +1,16 @@
+# Warlock of the Great Old One
+
+| Name | Type | CR | HP | AC | Speed |
+|------|------|----|----|----|-------|
+| Warlock of the Great Old One | Unknown | 6 | 91 (14d8 + 28) | 12, 15 | walk: 30 ft. |
+
+### Actions:
+
+| Ability | Damage | Save DC & Type | On Successful Save |
+|---------|--------|----------------|--------------------|
+| Dagger | 1d4 + 2 | - | - |
+
+
+**Dagger.** {@atk mw,rw} {@hit 5} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage.
+
+^Tags: #monster #type_unknown

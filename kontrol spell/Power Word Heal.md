@@ -1,0 +1,26 @@
+# Power Word Heal
+
+## Spell Summary
+
+| Attribute        | Value                  |
+|------------------|------------------------|
+| Name             | Power Word Heal                 |
+| Level            | 9                |
+| School           | Evocation          |
+| Casting Time     | 1 action              |
+| Range            | Point            |
+| Duration         | Instant             |
+| Components       | v, s             |
+| Damage           | -               |
+| Save DC & Type   |              |
+
+---
+
+## Description
+
+A wave of healing energy washes over the creature you touch. The target regains all its hit points. If the creature is charmed condition, frightened condition, paralyzed condition, or stunned condition, the condition ends. If the creature is prone condition, it can use its reaction to stand up. This spell has no effect on undead or constructs.
+
+## Usage
+
+
+^Tags: #spell #school_evocation #level_9

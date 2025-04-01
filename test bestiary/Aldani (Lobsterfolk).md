@@ -1,0 +1,36 @@
+# Aldani (Lobsterfolk)
+
+## Stat Block
+
+| Name | Type | CR | HP | AC | Speed |
+|------|------|----|----|----|-------|
+| Aldani (Lobsterfolk) | monstrosity | 1 | 49 (9d8 + 9) | 14 | walk 20, swim 30 |
+
+## Abilities
+
+- **STR** 13 | **DEX** 8 | **CON** 12 | **INT** 10 | **WIS** 14 | **CHA** 10
+- **Saving Throws:** -  
+- **Skills:** Perception ++4, Survival ++4  
+- **Damage Resistances:** -  
+- **Condition Immunities:** -  
+- **Senses:** darkvision 60 ft.  
+- **Languages:** Common
+
+## Traits
+
+**Amphibious.** The aldani can breathe air and water.
+
+
+## Actions
+
+| Action | Hit or Save | Damage | On Save |
+|--------|--------------|--------|----------|
+| Multiattack | - | - | - |
+| Claw | +3 to hit | 1d8 + 1 damage) slashing | - |
+
+**Multiattack.** The aldani makes two attacks with its claws.
+
+**Claw.** {@atk mw} +3 to hit to hit, reach 5 ft., one target. {@h}5 (1d8 + 1 damage) slashing damage, and the target is grappled condition (escape DC 11 Saving Throw). The aldani has two claws, each of which can grapple only one target.
+
+
+^Tags: #combat_ready #monster #type_monstrosity #cr_1

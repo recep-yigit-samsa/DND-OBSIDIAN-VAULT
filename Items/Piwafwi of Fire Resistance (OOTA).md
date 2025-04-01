@@ -1,0 +1,23 @@
+# Piwafwi of Fire Resistance
+
+## Item Summary
+
+| Attribute            | Value                        |
+|----------------------|------------------------------|
+| Type                 |   |
+| Rarity               | Rare             |
+| Requires Attunement  | Yes                |
+| Value (gp)           | -    |
+| Source               | OOTA |
+
+---
+
+## Description
+
+This dark spider-silk cloak is made by drow. It is a cloak of elvenkind. It also grants resistance to fire damage while you wear it. It loses its magic if exposed to sunlight for 1 hour without interruption.
+
+While you wear this cloak with its hood up, Wisdom ({@skill Perception}) checks made to see you have disadvantage. and you have advantage on Dexterity ({@skill Stealth}) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action.
+
+## Tags
+
+^Tags: #item #rarity_rare #type__ #attunement #source_oota

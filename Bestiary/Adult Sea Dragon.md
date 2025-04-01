@@ -1,0 +1,31 @@
+# Adult Sea Dragon
+
+| Name | Type | CR | HP | AC | Speed |
+|------|------|----|----|----|-------|
+| Adult Sea Dragon | Dragon | 18 | 275 (22d12 + 132) | 19 | walk: 40 ft., fly: 80 ft., swim: 60 ft. |
+
+### Actions:
+
+| Ability | Damage | Save DC & Type | On Successful Save |
+|---------|--------|----------------|--------------------|
+| Multiattack | - | - | - |
+| Bite | 2d10 + 7 + 3d6 | - | - |
+| Fin | 2d6 + 7 | - | - |
+| Tail | 2d8 + 7 | - | - |
+| Frightful Presence | - | 18 | - |
+| Tidal Breath {@recharge 5} | 6d10 + 6d10 | 20 | - |
+
+
+**Multiattack.** The dragon uses its Frightful Presence. It then makes one Bite attack and two Fin attacks.
+
+**Bite.** {@atk mw} {@hit 13} to hit, reach 10 ft., one target. {@h}18 ({@damage 2d10 + 7}) piercing damage plus 10 ({@damage 3d6}) cold damage.
+
+**Fin.** {@atk mw} {@hit 13} to hit, reach 5 ft., one target. {@h}14 ({@damage 2d6 + 7}) slashing damage.
+
+**Tail.** {@atk mw} {@hit 13} to hit, reach 15 ft., one target. {@h}16 ({@damage 2d8 + 7}) bludgeoning damage.
+
+**Frightful Presence.** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a {@dc 18} Wisdom saving throw or become {@condition frightened} for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+**Tidal Breath {@recharge 5}.** The dragon exhales a crushing wave of frigid seawater in a 60-foot cone. Each creature in that area must make a {@dc 20} Dexterity saving throw. On a failure, the creature takes 33 ({@damage 6d10}) bludgeoning damage and 33 ({@damage 6d10}) cold damage and is pushed up to 30 feet away from the dragon and knocked {@condition prone}. On a success, the creature takes half the damage and isn't pushed or knocked {@condition prone}.
+
+^Tags: #monster #type_dragon
